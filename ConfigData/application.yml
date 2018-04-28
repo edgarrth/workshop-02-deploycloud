@@ -8,11 +8,11 @@ eureka:
 ---
 spring:
   profiles: marvel
-words: Iron Man, Spiderman, Ant-Man, Hulk, Thor
+heroes: Iron Man, Spiderman, Ant-Man, Hulk, Thor
 ---
 spring:
   profiles: dc
-words: Batman, Mujer Maravilla, Flash, Linterna Verde, Megamente
+heroes: Batman, Mujer Maravilla, Flash, Linterna Verde, Megamente
 
 ---
 spring:
