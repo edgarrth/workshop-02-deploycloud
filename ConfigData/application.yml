@@ -7,6 +7,15 @@ eureka:
 
 ---
 spring:
+  profiles: marvel
+words: Iron Man, Spiderman, Ant-Man, Hulk, Thor
+---
+spring:
+  profiles: dc
+words: Batman, Mujer Maravilla, Flash, Linterna Verde, Megamente
+
+---
+spring:
   profiles: subject
 words: I,You,He,She,It
   
